@@ -1,0 +1,21 @@
+Total Return Swap
+
+Total Return Player (Buyer, Party A)
+Total Return Receive (Seller, Party B)
+
+
+Trade Date 09-13-2016
+Effective Date 09-15-2016
+Maturity Date 05-15-2031
+Termination Date 05-15-2031 + 2bd
+
+
+Reference Entity    Republic of Indonesia
+Coupon              8.75
+Payment Currency    USD
+
+Calendars: Singaport, Jakarta, London, New York
+Convention: Following
+
+
+Fixing Lag: -2bd
